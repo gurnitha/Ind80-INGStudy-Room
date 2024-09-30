@@ -39,3 +39,9 @@ Youtub:https://www.youtube.com/watch?v=PtQiiknWUcI&t=2602s
         new file:   app/main/models.py
         new file:   app/main/tests.py
         new file:   app/main/views.py
+
+#### 4. (2.7.) Mengintegrasikan Aplikasi Main dengan Proyek
+
+        modified:   README.md
+        modified:   app/main/apps.py
+        modified:   config/settings.py
