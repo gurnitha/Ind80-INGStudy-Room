@@ -28,3 +28,14 @@ Youtub:https://www.youtube.com/watch?v=PtQiiknWUcI&t=2602s
         renamed:    config/config/urls.py -> config/urls.py
         renamed:    config/config/wsgi.py -> config/wsgi.py
         renamed:    config/manage.py -> manage.py
+
+#### 3. (2.6.) Membuat Aplikasi Django
+
+        modified:   README.md
+        new file:   app/main/__init__.py
+        new file:   app/main/admin.py
+        new file:   app/main/apps.py
+        new file:   app/main/migrations/__init__.py
+        new file:   app/main/models.py
+        new file:   app/main/tests.py
+        new file:   app/main/views.py
